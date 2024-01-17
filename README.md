@@ -1,2 +1,2 @@
-# SIPM_polda
- Sistem Informasi Pengaduan Masyarakat Polda jawa tengah
+# Inventaris Pengadaan Barang
+ Sistem Informasi Inventaris Pengadaan Barang BPS Kota Pekalongan
